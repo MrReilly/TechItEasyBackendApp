@@ -1,4 +1,4 @@
-package com.example.Les10HuiswerkTechITEasy.controller;
+package com.example.Les10HuiswerkTechITEasy.controllers;
 
 import com.example.Les10HuiswerkTechITEasy.exceptions.RecordNotFoundException;
 import org.springframework.http.HttpStatus;
